@@ -1,18 +1,7 @@
-hi
-this
-is 
-magathuva
-i 
-how 
-are 
-you
-i 
-am 
-doing
-really 
-great 
-u
-want to get a job soon Magathuva 
-Svae this 
-keep this in mind 
-Only this not anything else 
+Login page
+home page 
+Register page account 
+OTP 
+Captacha 
+Audio - Video Call 
+Images might added in feature 
